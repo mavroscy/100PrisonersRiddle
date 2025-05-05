@@ -1,5 +1,5 @@
 # 100PrisonersRiddle
-The 100 Prisoners Riddle implemented by mavroscy in java
+The 100 Prisoners Riddle implemented by mavroscy in java (Netbeans Project)
 
 Java implementeation of the 100 Prisoners riddle as @veritasium 
 explains it in his video https://www.youtube.com/watch?v=iSNsgj1OCLA 
